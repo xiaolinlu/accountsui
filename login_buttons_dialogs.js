@@ -1,7 +1,7 @@
-
 (function () {
   // for convenience
   var loginButtonsSession = Accounts._loginButtonsSession;
+
 
 
   //

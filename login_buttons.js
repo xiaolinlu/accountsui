@@ -1,7 +1,7 @@
-
 (function() {
     if (!Accounts._loginButtons)
         Accounts._loginButtons = {};
+
 
     // for convenience
     var loginButtonsSession = Accounts._loginButtonsSession;

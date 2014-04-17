@@ -1,7 +1,7 @@
-
 (function () {
   var VALID_KEYS = [
     'dropdownVisible',
+
 
     // XXX consider replacing these with one key that has an enum for values.
     'inSignupFlow',

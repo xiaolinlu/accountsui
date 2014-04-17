@@ -1,4 +1,2 @@
-
-accounts-ui-chines
-
+meteor-accounts-ui-chinese
 
