@@ -1,4 +1,7 @@
 {
   "name": "accountsui",
-  "git": "https://github.com/xiaolinlu/accountsui.git"
+  "git": "https://github.com/xiaolinlu/accountsui.git",
+    "packages": {
+        "just-i18n": "0.2.4"
+    }
 }

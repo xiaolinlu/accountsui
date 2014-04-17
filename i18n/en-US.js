@@ -28,5 +28,14 @@ i18n.map('en-US', {
         CREATE: 'Create',
         CURRENT_PASSWORD: 'Current Password',
         NEW_PASSWORD_AGAIN: 'New Password (again)',
+        Configure_Service: 'Configure Service',
+        copy_over_some_details: 'Now, copy over some details.',
+        I_ll_do_this_later: 'I\'ll do this later',
+        Save_Configuration:'Save Configuration',
+        Dismiss:'Dismiss',
+        Invalid_email:'Invalid email',
+        Username_long:'Username must be at least 3 characters long',
+        Password_long: 'Password must be at least 6 characters long',
+
     },
 });

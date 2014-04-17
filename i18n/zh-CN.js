@@ -29,5 +29,13 @@ i18n.map('zh-CN', {
         CREATE: '创建',
         CURRENT_PASSWORD: '目前的密码',
         NEW_PASSWORD_AGAIN: '新密码（再次）',
+        Configure_Service: '配置服务',
+        copy_over_some_details: '拷贝一些具体',
+        I_ll_do_this_later: '以后再来',
+        Save_Configuration:'保存配置',
+        Dismiss:'搁置',
+        Invalid_email:'电子邮件无效',
+        Username_long:'用户名必须至少有3个字符',
+        Password_long: '用户名必须至少有3个字符',
     },
 });
